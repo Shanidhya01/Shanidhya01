@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanidhya Kumar</h1>
-<h3 align="center">A passionate I am a passionate Web Developer from India, currently pursuing my B.Tech from DSCE,Bangalore. I specialize in creating interactive, responsive, and user-friendly web applications and expanding my skills in backend development.</h3>
+<h3 align="center">A passionate Web Developer from India, currently pursuing my B.Tech from DSCE,Bangalore. I specialize in creating interactive, responsive, and user-friendly web applications and expanding my skills in backend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanidhya01" alt="shanidhya01" /></a> </p>
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shanidhya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanidhya kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shanidhya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanidhya kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/luckykumar0011s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanidhya kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
