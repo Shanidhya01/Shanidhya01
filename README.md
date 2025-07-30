@@ -17,7 +17,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 2nd year B.E. in Computer Science & Engineering (IoT & Cyber Security)
+- 🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)
 - 📍 Bangalore, India
 - 📈 Passionate about full-stack development, AI, and competitive coding
 - 📫 Contact: luckykumar0011s@gmail.com | +91 9905583008
