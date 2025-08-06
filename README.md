@@ -162,7 +162,7 @@
 ## 🔥 Fun Facts & Currently Working On
 
 - 🥇 Regular participant in coding contests
-- 🚀 Currently building: [your latest project or interest]
+- 🚀 Currently building: [Resume Builder]
 - 🤝 Open to collaboration on full-stack & AI projects
 - 💡 Always eager to learn something new!
 
