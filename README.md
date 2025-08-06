@@ -1,5 +1,8 @@
-<!-- Profile Banner (Optional) -->
-<!-- ![Banner](https://your-image-url.com/banner.png) -->
+<!-- Modern Profile Banner 
+<p align="center">
+  <img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%"/>
+</p>
+-->
 
 <h1 align="center">Hi 👋, I'm Shanidhya Kumar</h1>
 <p align="center">
@@ -8,24 +11,38 @@
 
 <p align="center">
   <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/Shanidhya01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
-  
-
-
-  <!-- Add other social/media links here -->
 </p>
 
 ---
 
-## 🧑‍🎓 About Me
+## 🧑‍💻 About Me
 
 - 🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)
-- 📍 Bangalore, India
-- 📈 Passionate about full-stack development, AI, and competitive coding
-- 📫 Contact: luckykumar0011s@gmail.com | +91 9905583008
+- 🌏 Based in Bangalore, India
+- 👨‍💻 Full-stack developer, AI/ML enthusiast, competitive coder
+- 🌟 Always learning, building, and sharing tech projects
+- 📬 Contact: luckykumar0011s@gmail.com | +91 9905583008
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=onestar&row=1&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanidhya01&theme=react" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react" alt="Top languages" />
+</p>
 
 ---
 
@@ -52,23 +69,79 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Developer Tools:**  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Experience
+## 🌟 Featured Projects
 
-**LeetCode Problem Solver**  
-_July 2024 – Present_  
-- Solving algorithmic problems across various domains on LeetCode.
-- Regular participant in LeetCode contests to improve speed and efficiency.
+<details>
+<summary>Click to expand project highlights</summary>
+
+### AI ChatBot  
+**Tech:** Next.js, React, Google Gemini AI, Tailwind CSS  
+- Real-time AI chatbot with streaming responses and intelligent conversations.
+
+### Expense Tracker  
+**Tech:** React, Vite, Tailwind CSS  
+- Personal finance tracker with secure auth, photo upload, and intuitive UI.
+
+### Victoria AI Assistant  
+**Tech:** React, Google Gemini AI, Speech Recognition  
+- Voice-activated AI assistant with cyberpunk UI.
+
+### Entertainment Hub  
+**Tech:** React, JavaScript, API Integration  
+- Movie/TV discovery platform: real-time search, watchlists, reviews.
+
+### Video Calling WebApp  
+**Tech:** Next.js, TypeScript, ZEGOCLOUD  
+- Real-time video/audio communication, room links.
+
+### Quiz App  
+**Tech:** HTML, CSS, JavaScript  
+- Dynamic quiz app: real-time questions, score tracking.
+
+### Personal Portfolio Website  
+**Tech:** Next.js, TypeScript, Tailwind CSS  
+- Animated, responsive portfolio with SEO, contact form.
+
+### StackFlow – Full Stack Q&A App  
+**Tech:** Next.js, Appwrite, TypeScript, Tailwind CSS  
+- Q&A platform with authentication, posting, answers.
+
+### Cloudinary SaaS Platform  
+**Tech:** Next.js, TypeScript, Tailwind CSS  
+- Media upload/manage/optimize SaaS, robust backend.
+
+### Memory Match Game  
+**Tech:** Python, Tkinter  
+- Interactive memory game with image pairs.
+
+### Password Manager  
+**Tech:** React, Tailwind CSS, JavaScript, Express.js, MongoDB  
+- Full-stack credential manager.
+
+### Egg Catcher Game  
+**Tech:** Python, Tkinter  
+- Arcade-style game with collision detection and score tracking.
+
+### Weather App  
+**Tech:** HTML, CSS, JavaScript  
+- Responsive app fetching real-time weather.
+
+### 3-D Solar System Simulator  
+**Tech:** Python, VPython/Matplotlib 3D  
+- Interactive 3D planetary simulation.
+
+</details>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 - **LeetCode Rank:** 91,992 ([View Profile](https://leetcode.com/Shanidhya01/))
 - **Certifications:**  
@@ -79,67 +152,6 @@ _July 2024 – Present_
 
 ---
 
-## 💻 Major Projects
-
-### AI ChatBot  
-**Tech:** Next.js, React, Google Gemini AI, Tailwind CSS  
-- Real-time AI chatbot with streaming responses and intelligent conversations.
-- Modern UI: theme toggle, glassmorphism, responsive layout, animated backgrounds.
-
-### Expense Tracker  
-**Tech:** React, Vite, Tailwind CSS, Authentication  
-- Personal finance tracker with secure auth, photo upload, and intuitive UI.
-
-### Victoria AI Assistant  
-**Tech:** React, Google Gemini AI, Speech Recognition  
-- Voice-activated AI assistant: real-time speech recognition, cyberpunk UI, smooth transitions.
-
-### Entertainment Hub  
-**Tech:** React, JavaScript, API Integration  
-- Movie/TV discovery platform: real-time search, watchlists, reviews, sleek responsive interface.
-
-### Video Calling WebApp  
-**Tech:** Next.js, TypeScript, ZEGOCLOUD  
-- Real-time video/audio communication, room links, glassmorphism UI.
-
-### Quiz App  
-**Tech:** HTML, CSS, JavaScript (Open Trivia DB API)  
-- Dynamic quiz app: real-time questions, score tracking, responsive dark theme.
-
-### Personal Portfolio Website  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Framer Motion  
-- Animated, responsive portfolio with SEO, contact form, dynamic routing.
-
-### StackFlow – Full Stack Q&A App  
-**Tech:** Next.js, Appwrite, TypeScript, Tailwind CSS  
-- Q&A platform with auth, posting, answers, clean modular UI.
-
-### Cloudinary SaaS Platform  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Cloudinary API  
-- Media upload/manage/optimize SaaS, secure auth, robust backend.
-
-### Memory Match Game  
-**Tech:** Python, Tkinter  
-- Interactive memory game with image pairs, button-based gameplay.
-
-### Password Manager  
-**Tech:** React, Tailwind CSS, JavaScript, Express.js, MongoDB  
-- Full-stack credential manager, real-time updates, secure CRUD.
-
-### Egg Catcher Game  
-**Tech:** Python, Tkinter  
-- Arcade-style game with real-time collision detection and score tracking.
-
-### Weather App  
-**Tech:** HTML, CSS, JavaScript (OpenWeatherMap API)  
-- Responsive app fetching real-time weather, modern dark theme.
-
-### 3-D Solar System Simulator  
-**Tech:** Python, VPython/Matplotlib 3D  
-- Interactive 3D planetary simulation with real physics and camera controls.
-
----
-
 ## 🌐 Industry Exposure
 
 **Nokia Technology Visit**  
@@ -147,20 +159,19 @@ _July 2024 – Present_
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Fun Facts & Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react" alt="Shanidhya01's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanidhya01&theme=react" alt="streak stats"/>
-</p>
+- 🥇 Regular participant in coding contests
+- 🚀 Currently building: [your latest project or interest]
+- 🤝 Open to collaboration on full-stack & AI projects
+- 💡 Always eager to learn something new!
 
 ---
 
 ## 📫 Connect with Me
+  <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/Shanidhya01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
-- **Email:** luckykumar0011s@gmail.com
-- **LinkedIn:** [Shanidhya Kumar](https://www.linkedin.com/in/shanidhya-kumar)
-- **LeetCode:** [Shanidhya01](https://leetcode.com/Shanidhya01/)
-- **GitHub:** [Shanidhya01](https://github.com/Shanidhya01)
-
-<!-- You can add more custom sections or fun facts below! -->
+<!-- Custom sections or fun facts below! -->
