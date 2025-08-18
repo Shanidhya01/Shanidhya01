@@ -143,10 +143,10 @@
 
 ## 🏅 Achievements & Certifications
 
-- **LeetCode Rank:** 91,992 ([View Profile](https://leetcode.com/Shanidhya01/))
+- **LeetCode Rank:** 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
 - **Certifications:**  
   - Cisco Cybersecurity
-  - JavaScript, Python (by [Issuing Platform])
+  - JavaScript, Python 
   - Postman API
   - AI Foundation and Machine Learning
 
