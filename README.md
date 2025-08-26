@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/Shanidhya01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -170,7 +170,7 @@
 
 ## 📫 Connect with Me
   <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/Shanidhya01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
