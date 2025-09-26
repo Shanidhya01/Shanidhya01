@@ -16,6 +16,12 @@
   <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Shanidhya01?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Shanidhya01?label=Follow&style=social"></a>
+  <a href="https://github.com/Shanidhya01?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -31,7 +37,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=onestar&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=onestar&row=1&column=7&no-frame=true&margin-w=8" />
 </p>
 
 ---
@@ -39,9 +45,33 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanidhya01&theme=react" alt="GitHub streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react" alt="Top languages" />
+  <!-- Profile stats (includes private counts in visuals) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <!-- Streak stats: switched to reliable Demolab endpoint -->
+  <a href="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400">
+    <img src="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400" alt="GitHub streak stats"/>
+  </a>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react&langs_count=8" alt="Top languages" />
+</p>
+
+<!-- Note: The external activity-graph service can be rate-limited and cause 'Failed to retrieve contributions'.
+If you want it back later, consider self-hosting or accept occasional errors. -->
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Shanidhya01/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=DSA&theme=react" alt="DSA" /></a>
+  <a href="https://github.com/Shanidhya01/BlinkChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BlinkChat&theme=react" alt="BlinkChat" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shanidhya01/BioTrace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BioTrace&theme=react" alt="BioTrace" /></a>
+  <a href="https://github.com/Shanidhya01/Shoporia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Shoporia&theme=react" alt="Shoporia" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shanidhya01/WriteWave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=WriteWave&theme=react" alt="WriteWave" /></a>
 </p>
 
 ---
@@ -82,59 +112,59 @@
 <summary>Click to expand project highlights</summary>
 
 ### AI ChatBot  
-**Tech:** Next.js, React, Google Gemini AI, Tailwind CSS  
+<b>Tech:</b> Next.js, React, Google Gemini AI, Tailwind CSS  
 - Real-time AI chatbot with streaming responses and intelligent conversations.
 
 ### Expense Tracker  
-**Tech:** React, Vite, Tailwind CSS  
+<b>Tech:</b> React, Vite, Tailwind CSS  
 - Personal finance tracker with secure auth, photo upload, and intuitive UI.
 
 ### Victoria AI Assistant  
-**Tech:** React, Google Gemini AI, Speech Recognition  
+<b>Tech:</b> React, Google Gemini AI, Speech Recognition  
 - Voice-activated AI assistant with cyberpunk UI.
 
 ### Entertainment Hub  
-**Tech:** React, JavaScript, API Integration  
+<b>Tech:</b> React, JavaScript, API Integration  
 - Movie/TV discovery platform: real-time search, watchlists, reviews.
 
 ### Video Calling WebApp  
-**Tech:** Next.js, TypeScript, ZEGOCLOUD  
+<b>Tech:</b> Next.js, TypeScript, ZEGOCLOUD  
 - Real-time video/audio communication, room links.
 
 ### Quiz App  
-**Tech:** HTML, CSS, JavaScript  
+<b>Tech:</b> HTML, CSS, JavaScript  
 - Dynamic quiz app: real-time questions, score tracking.
 
 ### Personal Portfolio Website  
-**Tech:** Next.js, TypeScript, Tailwind CSS  
+<b>Tech:</b> Next.js, TypeScript, Tailwind CSS  
 - Animated, responsive portfolio with SEO, contact form.
 
 ### StackFlow – Full Stack Q&A App  
-**Tech:** Next.js, Appwrite, TypeScript, Tailwind CSS  
+<b>Tech:</b> Next.js, Appwrite, TypeScript, Tailwind CSS  
 - Q&A platform with authentication, posting, answers.
 
 ### Cloudinary SaaS Platform  
-**Tech:** Next.js, TypeScript, Tailwind CSS  
+<b>Tech:</b> Next.js, TypeScript, Tailwind CSS  
 - Media upload/manage/optimize SaaS, robust backend.
 
 ### Memory Match Game  
-**Tech:** Python, Tkinter  
+<b>Tech:</b> Python, Tkinter  
 - Interactive memory game with image pairs.
 
 ### Password Manager  
-**Tech:** React, Tailwind CSS, JavaScript, Express.js, MongoDB  
+<b>Tech:</b> React, Tailwind CSS, JavaScript, Express.js, MongoDB  
 - Full-stack credential manager.
 
 ### Egg Catcher Game  
-**Tech:** Python, Tkinter  
+<b>Tech:</b> Python, Tkinter  
 - Arcade-style game with collision detection and score tracking.
 
 ### Weather App  
-**Tech:** HTML, CSS, JavaScript  
+<b>Tech:</b> HTML, CSS, JavaScript  
 - Responsive app fetching real-time weather.
 
 ### 3-D Solar System Simulator  
-**Tech:** Python, VPython/Matplotlib 3D  
+<b>Tech:</b> Python, VPython/Matplotlib 3D  
 - Interactive 3D planetary simulation.
 
 </details>
@@ -143,8 +173,8 @@
 
 ## 🏅 Achievements & Certifications
 
-- **LeetCode Rank:** 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
-- **Certifications:**  
+- <b>LeetCode Rank:</b> 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
+- <b>Certifications:</b>  
   - Cisco Cybersecurity
   - JavaScript, Python 
   - Postman API
@@ -154,7 +184,7 @@
 
 ## 🌐 Industry Exposure
 
-**Nokia Technology Visit**  
+<b>Nokia Technology Visit</b>  
 - Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
 
 ---
@@ -168,10 +198,23 @@
 
 ---
 
-## 📫 Connect with Me
-  <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+## 🔗 Quick Links
+- DSA: <a href="https://github.com/Shanidhya01/DSA">Shanidhya01/DSA</a>
+- BlinkChat: <a href="https://github.com/Shanidhya01/BlinkChat">Shanidhya01/BlinkChat</a>
+- BioTrace: <a href="https://github.com/Shanidhya01/BioTrace">Shanidhya01/BioTrace</a>
+- Shoporia: <a href="https://github.com/Shanidhya01/Shoporia">Shanidhya01/Shoporia</a>
+- WriteWave: <a href="https://github.com/Shanidhya01/WriteWave">Shanidhya01/WriteWave</a>
 
-<!-- Custom sections or fun facts below! -->
+---
+
+## 📫 Connect with Me
+<a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<!-- Notes:
+- Streak card uses Demolab endpoint with cache hint to avoid outages.
+- GitHub Stats includes private counts visually with count_private=true.
+- Pinned repo cards show your top projects; ensure these repos have clear README, topics, and screenshots.
+-->
