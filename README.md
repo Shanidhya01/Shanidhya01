@@ -24,59 +24,34 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Highlights
+- Full‑stack developer and AI/ML enthusiast with strong DSA foundations in C++
+- Building with React, Next.js, TypeScript, Node.js, MongoDB
+- Actively shipping projects and exploring AI assistants and real‑time apps
+- Open to internships and collaborations in full‑stack and AI
 
+---
+
+## 🧑‍💻 About Me
 - 🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)
 - 🌏 Based in Bangalore, India
-- 👨‍💻 Full-stack developer, AI/ML enthusiast, competitive coder
-- 🌟 Always learning, building, and sharing tech projects
-- 📬 Contact: luckykumar0011s@gmail.com | +91 9905583008
+- 👨‍💻 Competitive coder; enjoy crafting clean, readable code
+- 📬 Contact: <a href="mailto:luckykumar0011s@gmail.com">luckykumar0011s@gmail.com</a> | <a href="tel:+919905583008">+91 9905583008</a>
+
+### 🔭 Currently
+- Learning: Next.js, TypeScript, system design fundamentals
+- Building: Resume Builder, AI assistants with multimodal prompts
+- Practicing: DSA in C++ and problem‑solving patterns
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=onestar&row=1&column=7&no-frame=true&margin-w=8" />
+## 🧰 Tech Stack (compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,html,css,mongodb,git,github,vscode,postman" alt="tech stack" />
 </p>
 
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <!-- Profile stats (includes private counts in visuals) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <!-- Streak stats: switched to reliable Demolab endpoint -->
-  <a href="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400">
-    <img src="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400" alt="GitHub streak stats"/>
-  </a>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react&langs_count=8" alt="Top languages" />
-</p>
-
-<!-- Note: The external activity-graph service can be rate-limited and cause 'Failed to retrieve contributions'.
-If you want it back later, consider self-hosting or accept occasional errors. -->
-
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Shanidhya01/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=DSA&theme=react" alt="DSA" /></a>
-  <a href="https://github.com/Shanidhya01/BlinkChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BlinkChat&theme=react" alt="BlinkChat" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shanidhya01/BioTrace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BioTrace&theme=react" alt="BioTrace" /></a>
-  <a href="https://github.com/Shanidhya01/Shoporia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Shoporia&theme=react" alt="Shoporia" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shanidhya01/WriteWave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=WriteWave&theme=react" alt="WriteWave" /></a>
-</p>
-
----
-
-## 🛠️ Technical Skills
+<details>
+<summary><b>See detailed tech badges</b></summary>
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -103,11 +78,39 @@ If you want it back later, consider self-hosting or accept occasional errors. --
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</details>
+
+---
+
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <a href="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400">
+    <img src="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400" alt="GitHub streak stats"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react&langs_count=8" alt="Top languages" />
+</p>
+
+<!-- Tip: If any image fails to load, open its URL directly and/or disable ad-block for that domain. -->
+
+---
+
+## 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/Shanidhya01/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=DSA&theme=react" alt="DSA" /></a>
+  <a href="https://github.com/Shanidhya01/BlinkChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BlinkChat&theme=react" alt="BlinkChat" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shanidhya01/BioTrace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BioTrace&theme=react" alt="BioTrace" /></a>
+  <a href="https://github.com/Shanidhya01/Shoporia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Shoporia&theme=react" alt="Shoporia" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Shanidhya01/WriteWave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=WriteWave&theme=react" alt="WriteWave" /></a>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
-
 <details>
 <summary>Click to expand project highlights</summary>
 
@@ -163,37 +166,28 @@ If you want it back later, consider self-hosting or accept occasional errors. --
 <b>Tech:</b> HTML, CSS, JavaScript  
 - Responsive app fetching real-time weather.
 
-### 3-D Solar System Simulator  
+### 3‑D Solar System Simulator  
 <b>Tech:</b> Python, VPython/Matplotlib 3D  
 - Interactive 3D planetary simulation.
-
 </details>
 
 ---
 
 ## 🏅 Achievements & Certifications
-
 - <b>LeetCode Rank:</b> 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
-- <b>Certifications:</b>  
-  - Cisco Cybersecurity
-  - JavaScript, Python 
-  - Postman API
-  - AI Foundation and Machine Learning
+- <b>Certifications:</b> Cisco Cybersecurity • JavaScript • Python • Postman API • AI Foundation and Machine Learning
 
 ---
 
 ## 🌐 Industry Exposure
-
-<b>Nokia Technology Visit</b>  
-- Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
+<b>Nokia Technology Visit</b> — Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
 
 ---
 
 ## 🔥 Fun Facts & Currently Working On
-
 - 🥇 Regular participant in coding contests
-- 🚀 Currently building: [Resume Builder]
-- 🤝 Open to collaboration on full-stack & AI projects
+- 🚀 Currently building: Resume Builder
+- 🤝 Open to collaboration on full‑stack & AI projects
 - 💡 Always eager to learn something new!
 
 ---
@@ -216,5 +210,5 @@ If you want it back later, consider self-hosting or accept occasional errors. --
 <!-- Notes:
 - Streak card uses Demolab endpoint with cache hint to avoid outages.
 - GitHub Stats includes private counts visually with count_private=true.
-- Pinned repo cards show your top projects; ensure these repos have clear README, topics, and screenshots.
+- Keep pinned repos up to date; add screenshots & topics in each repo for recruiter appeal.
 -->
