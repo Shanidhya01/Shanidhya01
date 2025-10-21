@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shanidhya01/Shanidhya01/main/Gemini_Generated_Image_ivllkjivllkjivll.png" 
+  <img src="banner.png" 
        alt="Banner" 
        width="100%" 
        style="max-width: 1584px; height: 396px; border-radius: 12px;" />
