@@ -5,7 +5,39 @@
        style="max-width: 1584px; height: 396px; border-radius: 12px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shanidhya Kumar</h1>
+<h1 align="center" style="margin-top: -32px; font-size: 2.8rem; font-weight: bold; letter-spacing: 1px;">Shanidhya Kumar</h1>
+<p align="center" style="font-size: 1.3rem; margin-top: -12px;">
+  <b>Full-Stack Developer | AI/ML Enthusiast | Building Scalable Apps</b>
+</p>
+<p align="center" style="font-size: 1.1rem; color: #888; margin-bottom: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+things+with+code.;Open+to+collaborations+and+internships!" alt="Typing SVG" />
+</p>
+
+---
+
+<div align="center">
+  <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+
+
+## 📚 Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack-compact)
+- [Highlights](#-highlights)
+- [GitHub Stats & Activity](#-github-stats--activity)
+- [Pinned Repositories](#-pinned-repositories)
+- [Featured Projects](#-featured-projects)
+- [Achievements & Certifications](#-achievements--certifications)
+- [Industry Exposure](#-industry-exposure)
+- [Fun Facts & Currently Working On](#-fun-facts--currently-working-on)
+- [Quick Links](#-quick-links)
+- [Contact Me](#-contact-me)
 <p align="center">
   <b>B.E. Computer Science & Engineering (IoT & Cyber Security) | Dayananda Sagar College Of Engineering | Bangalore, India</b>
   <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Passionate About Scalable Apps</h3>
@@ -53,21 +85,29 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
-- 🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)
-- 🌏 Based in Bangalore, India
-- 👨‍💻 Competitive coder; enjoy crafting clean, readable code
-- 📬 Contact: <a href="mailto:luckykumar0011s@gmail.com">luckykumar0011s@gmail.com</a> | <a href="tel:+919905583008">+91 9905583008</a>
+
+<ul>
+  <li>🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)</li>
+  <li>🌏 Based in Bangalore, India</li>
+  <li>👨‍💻 Competitive coder; enjoy crafting clean, readable code</li>
+  <li>📬 <b>Contact:</b> <a href="mailto:luckykumar0011s@gmail.com">luckykumar0011s@gmail.com</a> | <a href="tel:+919905583008">+91 9905583008</a></li>
+</ul>
+
 
 ### 🔭 Currently
-- Learning: Next.js, TypeScript, system design fundamentals
-- Building: Resume Builder, AI assistants with multimodal prompts
-- Practicing: DSA in C++ and problem‑solving patterns
+<ul>
+  <li>Learning: Next.js, TypeScript, system design fundamentals</li>
+  <li>Building: Resume Builder, AI assistants with multimodal prompts</li>
+  <li>Practicing: DSA in C++ and problem‑solving patterns</li>
+</ul>
 
 ---
 
-## 🧰 Tech Stack (compact)
-<p>
+
+## 🧰 Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,html,css,mongodb,git,github,vscode,postman" alt="tech stack" />
 </p>
 
@@ -222,8 +262,9 @@
 
 ---
 
-## 📫 Connect with Me
-<a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+---
+
+<div align="center" style="margin-top: 32px;">
+  <b>Let's connect and build something amazing!</b>
+</div>
