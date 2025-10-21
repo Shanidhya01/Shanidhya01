@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shanidhya01/Shanidhya01/main/Gemini_Generated_Image_ivllkjivllkjivll.png" 
+       alt="Banner" 
+       width="100%" 
+       style="max-width: 1584px; height: 396px; border-radius: 12px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shanidhya Kumar</h1>
 <p align="center">
   <b>B.E. Computer Science & Engineering (IoT & Cyber Security) | Dayananda Sagar College Of Engineering | Bangalore, India</b>
+  <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Passionate About Scalable Apps</h3>
+
 </p>
 
 <p align="center">
