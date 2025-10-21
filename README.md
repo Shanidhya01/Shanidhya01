@@ -1,8 +1,3 @@
-<!-- Modern Profile Banner 
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%"/>
-</p>
--->
 
 <h1 align="center">Hi 👋, I'm Shanidhya Kumar</h1>
 <p align="center">
@@ -22,10 +17,15 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
 </p>
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF" width="500">
+</div>
+
 ---
 
 ## 🏅 My Holopin Badges
 <p align="center">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badge lvl1-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badge lvl2-human" width="100" />
@@ -33,7 +33,6 @@
   <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="100" />
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="100" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
 </p>
 
 ---
