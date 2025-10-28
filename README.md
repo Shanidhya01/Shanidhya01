@@ -167,85 +167,85 @@
 
 ### AI ChatBot
 
-`<b>`Tech:`</b>` Next.js, React, Google Gemini AI, Tailwind CSS
+<b>`Tech:`</b> Next.js, React, Google Gemini AI, Tailwind CSS
 
 - Real-time AI chatbot with streaming responses and intelligent conversations.
 
 ### Expense Tracker
 
-`<b>`Tech:`</b>` React, Vite, Tailwind CSS
+<b>`Tech:`</b> React, Vite, Tailwind CSS
 
 - Personal finance tracker with secure auth, photo upload, and intuitive UI.
 
 ### Victoria AI Assistant
 
-`<b>`Tech:`</b>` React, Google Gemini AI, Speech Recognition
+<b>`Tech:`</b> React, Google Gemini AI, Speech Recognition
 
 - Voice-activated AI assistant with cyberpunk UI.
 
 ### Entertainment Hub
 
-`<b>`Tech:`</b>` React, JavaScript, API Integration
+<b>`Tech:`</b> React, JavaScript, API Integration
 
 - Movie/TV discovery platform: real-time search, watchlists, reviews.
 
 ### Video Calling WebApp
 
-`<b>`Tech:`</b>` Next.js, TypeScript, ZEGOCLOUD
+<b>`Tech:`</b> Next.js, TypeScript, ZEGOCLOUD
 
 - Real-time video/audio communication, room links.
 
 ### Quiz App
 
-`<b>`Tech:`</b>` HTML, CSS, JavaScript
+<b>`Tech:`</b> HTML, CSS, JavaScript
 
 - Dynamic quiz app: real-time questions, score tracking.
 
 ### Personal Portfolio Website
 
-`<b>`Tech:`</b>` Next.js, TypeScript, Tailwind CSS
+<b>`Tech:`</b> Next.js, TypeScript, Tailwind CSS
 
 - Animated, responsive portfolio with SEO, contact form.
 
 ### StackFlow – Full Stack Q&A App
 
-`<b>`Tech:`</b>` Next.js, Appwrite, TypeScript, Tailwind CSS
+<b>`Tech:`</b> Next.js, Appwrite, TypeScript, Tailwind CSS
 
 - Q&A platform with authentication, posting, answers.
 
 ### Cloudinary SaaS Platform
 
-`<b>`Tech:`</b>` Next.js, TypeScript, Tailwind CSS
+<b>`Tech:`</b> Next.js, TypeScript, Tailwind CSS
 
 - Media upload/manage/optimize SaaS, robust backend.
 
 ### Memory Match Game
 
-`<b>`Tech:`</b>` Python, Tkinter
+<b>`Tech:`</b> Python, Tkinter
 
 - Interactive memory game with image pairs.
 
 ### Password Manager
 
-`<b>`Tech:`</b>` React, Tailwind CSS, JavaScript, Express.js, MongoDB
+<b>`Tech:`</b> React, Tailwind CSS, JavaScript, Express.js, MongoDB
 
 - Full-stack credential manager.
 
 ### Egg Catcher Game
 
-`<b>`Tech:`</b>` Python, Tkinter
+<b>`Tech:`</b> Python, Tkinter
 
 - Arcade-style game with collision detection and score tracking.
 
 ### Weather App
 
-`<b>`Tech:`</b>` HTML, CSS, JavaScript
+<b>`Tech:`</b> HTML, CSS, JavaScript
 
 - Responsive app fetching real-time weather.
 
 ### 3‑D Solar System Simulator
 
-`<b>`Tech:`</b>` Python, VPython/Matplotlib 3D
+<b>`Tech:`</b> Python, VPython/Matplotlib 3D
 
 - Interactive 3D planetary simulation.
 
@@ -255,14 +255,14 @@
 
 ## 🏅 Achievements & Certifications
 
-- `<b>`LeetCode Rank:`</b>` 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
-- `<b>`Certifications:`</b>` Cisco Cybersecurity • JavaScript • Python • Postman API • AI Foundation and Machine Learning
+- <b>`LeetCode Rank:`</b> 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
+- <b>`Certifications:`</b> Cisco Cybersecurity • JavaScript • Python • Postman API • AI Foundation and Machine Learning
 
 ---
 
 ## 🌐 Industry Exposure
 
-`<b>`Nokia Technology Visit`</b>` — Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
+<b>`Nokia Technology Visit`</b> — Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
 
 ---
 
