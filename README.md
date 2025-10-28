@@ -277,11 +277,11 @@
 
 ## 🔗 Quick Links
 
-- DSA: <a href="https://github.com/Shanidhya01/DSA">Shanidhya01/DSA`</a>`
-- BlinkChat: <a href="https://github.com/Shanidhya01/BlinkChat">Shanidhya01/BlinkChat`</a>`
-- BioTrace: <a href="https://github.com/Shanidhya01/BioTrace">Shanidhya01/BioTrace`</a>`
-- Shoporia: <a href="https://github.com/Shanidhya01/Shoporia">Shanidhya01/Shoporia`</a>`
-- WriteWave: <a href="https://github.com/Shanidhya01/WriteWave">Shanidhya01/WriteWave`</a>`
+- DSA: <a href="https://github.com/Shanidhya01/DSA">`Shanidhya01/DSA`</a>
+- BlinkChat: <a href="https://github.com/Shanidhya01/BlinkChat">`Shanidhya01/BlinkChat`</a>
+- BioTrace: <a href="https://github.com/Shanidhya01/BioTrace">`Shanidhya01/BioTrace`</a>
+- Shoporia: <a href="https://github.com/Shanidhya01/Shoporia">`Shanidhya01/Shoporia`</a>
+- WriteWave: <a href="https://github.com/Shanidhya01/WriteWave">`Shanidhya01/WriteWave`</a>
 
 ---
 
