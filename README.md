@@ -22,12 +22,11 @@
 
 <p align="center">
   <a href="https://github.com/Shanidhya01?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Shanidhya01?label=Follow&style=social"></a>
-  <a href="https://github.com/Shanidhya01?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&sty[...]  
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
+  <a href="https://github.com/Shanidhya01?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&sty[...]  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
 </p>
 
 <!-- <div align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e74[...]  
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e737175617265737BhY2e2e636f6e74656e74[...]  
 </div> -->
 
 ---
@@ -37,12 +36,12 @@
 - [About Me](#-about-me)
 - [Tech Stack](#-tech-stack-compact)
 - [Highlights](#-highlights)
-- [GitHub Stats &amp; Activity](#-github-stats--activity)
+- [GitHub Stats & Activity](#-github-stats--activity)
 - [Pinned Repositories](#-pinned-repositories)
 - [Featured Projects](#-featured-projects)
-- [Achievements &amp; Certifications](#-achievements--certifications)
+- [Achievements & Certifications](#-achievements--certifications)
 - [Industry Exposure](#-industry-exposure)
-- [Fun Facts &amp; Currently Working On](#-fun-facts--currently-working-on)
+- [Fun Facts & Currently Working On](#-fun-facts--currently-working-on)
 - [Quick Links](#-quick-links)
 - [Contact Me](#-contact-me)
 
@@ -132,22 +131,13 @@
 
 ## 📈 GitHub Stats & Activity
 
- <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=juicyfresh&margin-w=10" alt="Shanidhya01" /></a> </p> 
-
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura)
-
- <div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shanidhya01&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shanidhya01&theme=aura" alt="Most Commit Language" width="45%" />
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shanidhya01&theme=aura" alt="GitHub Stats" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shanidhya01&theme=aura&utcOffset=8" alt="Productive Time" width="45%" />
-</div>
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Shanidhya01/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <a href="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400">
+    <img src="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400" alt="GitHub streak stats"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react&langs_count=8" alt="Top languages" />
+</p>
 
 <!-- Tip: If any image fails to load, open its URL directly and/or disable ad-block for that domain. -->
 
@@ -295,7 +285,6 @@
 ---
 
 ---
-
 <div align="center" style="margin-top: 32px;">
   <b>Let's connect and build something amazing!</b>
 </div>
