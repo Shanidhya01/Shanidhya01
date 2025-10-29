@@ -10,7 +10,7 @@
 <p align="center"><b>B.E. Computer Science & Engineering (IoT & Cyber Security) | Dayananda Sagar College Of Engineering | Bangalore, India</b></p>
 
 <p align="center" style="font-size: 1.1rem; color: #888; margin-bottom: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+things+with+code.;Open+to+collaborations+and+internships!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+building+c[...]  
 </p>
 
 <p align="center">
@@ -22,12 +22,12 @@
 
 <p align="center">
   <a href="https://github.com/Shanidhya01?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Shanidhya01?label=Follow&style=social"></a>
-  <a href="https://github.com/Shanidhya01?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social"></a>
+  <a href="https://github.com/Shanidhya01?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&sty[...]  
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
 </p>
 
 <!-- <div align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF" width="500">
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e74[...]  
 </div> -->
 
 ---
@@ -51,13 +51,13 @@
 ## 🏅 My Holopin Badges
 
 <p align="center">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" [...]  
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badge lvl1-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badge lvl2-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Holopin Badge lvl3-human" width="100" />
   <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="100" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" [...]  
   <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="100" />
 </p>
 
@@ -132,13 +132,22 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <a href="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400">
-    <img src="https://streak-stats.demolab.com/?user=Shanidhya01&theme=react&cache_seconds=86400" alt="GitHub streak stats"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=react&langs_count=8" alt="Top languages" />
-</p>
+ <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shanidhya01&theme=juicyfresh&margin-w=10" alt="Shanidhya01" /></a> </p> 
+
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura)
+
+ <div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shanidhya01&theme=aura" alt="Repos per Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shanidhya01&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shanidhya01&theme=aura" alt="GitHub Stats" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shanidhya01&theme=aura&utcOffset=8" alt="Productive Time" width="45%" />
+</div>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Shanidhya01/github-readme-activity-graph)
 
 <!-- Tip: If any image fails to load, open its URL directly and/or disable ad-block for that domain. -->
 
