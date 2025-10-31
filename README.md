@@ -269,7 +269,7 @@
 ## 🔥 Fun Facts & Currently Working On
 
 - 🥇 Regular participant in coding contests
-- 🚀 Currently building: Resume Builder
+- 🚀 Currently building: CodeInSight
 - 🤝 Open to collaboration on full‑stack & AI projects
 - 💡 Always eager to learn something new!
 
