@@ -269,7 +269,7 @@
 ## 🔥 Fun Facts & Currently Working On
 
 - 🥇 Regular participant in coding contests
-- 🚀 Currently building: CodeInSight
+- 🚀 Currently building: Leetify
 - 🤝 Open to collaboration on full‑stack & AI projects
 - 💡 Always eager to learn something new!
 
