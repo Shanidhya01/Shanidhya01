@@ -94,8 +94,20 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,html,css,mongodb,git,github,vscode,postman" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,php,react,nextjs,tailwind,bootstrap,jquery,nodejs,express,socketio,mongodb,postgres,git,github,vercel,netlify,vscode,postman" alt="tech stack" />
 </p>
+
+**Languages:** JavaScript, TypeScript, Python, HTML5, CSS3, C, C++, Java, PHP
+
+**Frontend:** React, Next.js, TailwindCSS, Bootstrap, jQuery, ShadCN UI, Lucide React
+
+**Backend:** NodeJS, Express.js, Nodemon, Socket.IO, JWT, bcryptjs
+
+**Database:** MongoDB, Postgres
+
+**APIs & Integration:** Cloudinary, OpenWeather API, Gemini API, MealDB
+
+**Deployment & Tools:** Vercel, Netlify, Render, Git, GitHub
 
 <details>
 <summary><b>See detailed tech badges</b></summary>
@@ -106,25 +118,44 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide%20React-111827?style=flat-square&logo=lucide&logoColor=white)
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-111827?style=flat-square&logo=npm&logoColor=white)
 
 **Database:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**APIs & Integration:**
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![OpenWeather](https://img.shields.io/badge/OpenWeather%20API-FF8C00?style=flat-square&logo=openweathermap&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-1A73E8?style=flat-square&logo=googlegemini&logoColor=white)
+![MealDB](https://img.shields.io/badge/MealDB-111827?style=flat-square&logo=api&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000)
 
 </details>
 
@@ -167,85 +198,85 @@
 
 ### AI ChatBot
 
-`<b>`Tech:`</b>` Next.js, React, Google Gemini AI, Tailwind CSS
+**Tech:** Next.js, React, TypeScript, TailwindCSS, Gemini API
 
 - Real-time AI chatbot with streaming responses and intelligent conversations.
 
 ### Expense Tracker
 
-`<b>`Tech:`</b>` React, Vite, Tailwind CSS
+**Tech:** React, Vite, TailwindCSS, Node.js, Express.js, MongoDB, JWT, bcryptjs, Multer, Nodemon
 
 - Personal finance tracker with secure auth, photo upload, and intuitive UI.
 
 ### Victoria AI Assistant
 
-`<b>`Tech:`</b>` React, Google Gemini AI, Speech Recognition
+**Tech:** React, Vite, JavaScript, CSS3, Gemini API, Web Speech API
 
 - Voice-activated AI assistant with cyberpunk UI.
 
 ### Entertainment Hub
 
-`<b>`Tech:`</b>` React, JavaScript, API Integration
+**Tech:** React, JavaScript, CSS/SCSS
 
 - Movie/TV discovery platform: real-time search, watchlists, reviews.
 
 ### Video Calling WebApp
 
-`<b>`Tech:`</b>` Next.js, TypeScript, ZEGOCLOUD
+**Tech:** Next.js, TypeScript, ZEGOCLOUD
 
 - Real-time video/audio communication, room links.
 
 ### Quiz App
 
-`<b>`Tech:`</b>` HTML, CSS, JavaScript
+**Tech:** HTML5, CSS3, JavaScript
 
 - Dynamic quiz app: real-time questions, score tracking.
 
 ### Personal Portfolio Website
 
-`<b>`Tech:`</b>` Next.js, TypeScript, Tailwind CSS
+**Tech:** Next.js, React, TypeScript, TailwindCSS, Lucide React
 
 - Animated, responsive portfolio with SEO, contact form.
 
 ### StackFlow – Full Stack Q&A App
 
-`<b>`Tech:`</b>` Next.js, Appwrite, TypeScript, Tailwind CSS
+**Tech:** Next.js, TypeScript, TailwindCSS, Appwrite
 
 - Q&A platform with authentication, posting, answers.
 
 ### Cloudinary SaaS Platform
 
-`<b>`Tech:`</b>` Next.js, TypeScript, Tailwind CSS
+**Tech:** Next.js, TypeScript, TailwindCSS, Cloudinary, Clerk, Prisma, Postgres
 
 - Media upload/manage/optimize SaaS, robust backend.
 
 ### Memory Match Game
 
-`<b>`Tech:`</b>` Python, Tkinter
+**Tech:** Python, Tkinter
 
 - Interactive memory game with image pairs.
 
 ### Password Manager
 
-`<b>`Tech:`</b>` React, Tailwind CSS, JavaScript, Express.js, MongoDB
+**Tech:** React, TailwindCSS, Node.js, Express.js, MongoDB, JWT, bcryptjs
 
 - Full-stack credential manager.
 
 ### Egg Catcher Game
 
-`<b>`Tech:`</b>` Python, Tkinter
+**Tech:** Python, Tkinter
 
 - Arcade-style game with collision detection and score tracking.
 
 ### Weather App
 
-`<b>`Tech:`</b>` HTML, CSS, JavaScript
+**Tech:** HTML5, CSS3, JavaScript, OpenWeather API
 
 - Responsive app fetching real-time weather.
 
 ### 3‑D Solar System Simulator
 
-`<b>`Tech:`</b>` Python, VPython/Matplotlib 3D
+**Tech:** Three.js, JavaScript, HTML5, CSS3
 
 - Interactive 3D planetary simulation.
 
@@ -255,14 +286,14 @@
 
 ## 🏅 Achievements & Certifications
 
-- `<b>`LeetCode Rank:`</b>` 91,992 ([View Profile](https://leetcode.com/u/luckykumar0011s/))
+- `<b>`LeetCode Rank:`</b>` 51,622([View Profile](https://leetcode.com/u/luckykumar0011s/))
 - `<b>`Certifications:`</b>` Cisco Cybersecurity • JavaScript • Python • Postman API • AI Foundation and Machine Learning
 
 ---
 
 ## 🌐 Industry Exposure
 
-`<b>`Nokia Technology Visit`</b>` — Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
+`<b>`Nokia Technology Visit `</b>` — Learned about AI, ML, 5G/6G trials, and networked with industry professionals.
 
 ---
 
@@ -277,11 +308,11 @@
 
 ## 🔗 Quick Links
 
-- DSA: `<a href="https://github.com/Shanidhya01/DSA">`Shanidhya01/DSA`</a>`
-- BlinkChat: `<a href="https://github.com/Shanidhya01/BlinkChat">`Shanidhya01/BlinkChat`</a>`
-- BioTrace: `<a href="https://github.com/Shanidhya01/BioTrace">`Shanidhya01/BioTrace`</a>`
-- Shoporia: `<a href="https://github.com/Shanidhya01/Shoporia">`Shanidhya01/Shoporia`</a>`
-- WriteWave: `<a href="https://github.com/Shanidhya01/WriteWave">`Shanidhya01/WriteWave`</a>`
+- DSA: `<a href="https://github.com/Shanidhya01/DSA">`Shanidhya01/DSA `</a>`
+- BlinkChat: `<a href="https://github.com/Shanidhya01/BlinkChat">`Shanidhya01/BlinkChat `</a>`
+- BioTrace: `<a href="https://github.com/Shanidhya01/BioTrace">`Shanidhya01/BioTrace `</a>`
+- Shoporia: `<a href="https://github.com/Shanidhya01/Shoporia">`Shanidhya01/Shoporia `</a>`
+- WriteWave: `<a href="https://github.com/Shanidhya01/WriteWave">`Shanidhya01/WriteWave `</a>`
 
 ---
 
