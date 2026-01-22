@@ -183,17 +183,40 @@
 
 ## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/Shanidhya01/AXIONYX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=AXIONYX&theme=react" alt="AXIONYX" /></a>
-  <a href="https://github.com/Shanidhya01/CodeInSight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=CodeInSight&theme=react" alt="CodeInSight" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shanidhya01/Journyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Journyzer&theme=react" alt="Journyzer" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Shanidhya01/BioTrace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BioTrace&theme=react" alt="BioTrace" /></a>
-  <a href="https://github.com/Shanidhya01/SecureShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=SecureShare&theme=react" alt="SecureShare" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Shanidhya01/AXIONYX">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=AXIONYX&theme=react" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shanidhya01/CodeInSight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=CodeInSight&theme=react" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Shanidhya01/Journyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Journyzer&theme=react" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Shanidhya01/BioTrace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BioTrace&theme=react" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Shanidhya01/SecureShare">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=SecureShare&theme=react" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
