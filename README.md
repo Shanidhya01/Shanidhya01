@@ -5,91 +5,108 @@
        style="max-width: 1584px; height: 396px; border-radius: 12px;" />
 </p>
 
-<h1 align="center" style="margin-top: -3px; font-size: 2.8rem; font-weight: bold; letter-spacing: 1px;">Shanidhya Kumar</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Passionate About Scalable Apps</h3>
-<p align="center"><b>B.E. Computer Science & Engineering (IoT & Cyber Security) | Dayananda Sagar College Of Engineering | Bangalore, India</b></p>
+<h1 align="center" style="margin-top: -3px; font-size: 2.8rem; font-weight: bold; letter-spacing: 1px;">
+  Shanidhya Kumar
+</h1>
 
-<p align="center" style="font-size: 1.1rem; color: #888; margin-bottom: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+projects!;Full-Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:luckykumar0011s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/luckykumar0011s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/Shanidhya01"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shanidhya-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Passionate+About+Scalable+Apps+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Shanidhya01?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Shanidhya01?label=Follow&style=social"></a><a href="https://github.com/Shanidhya01?tab=stars">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social">
-</a>
+  <b>🎓 B.E. Computer Science & Engineering (IoT & Cyber Security)</b><br>
+  <i>Dayananda Sagar College Of Engineering | Bangalore, India</i>
+</p>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckykumar0011s@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/luckykumar0011s/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shanidhya01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanidhya-kumar/)
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Shanidhya01?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shanidhya01?label=Follow&style=social">
+  </a>
+  <a href="https://github.com/Shanidhya01?tab=stars">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Shanidhya01?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social">
+  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shanidhya01&color=0e75b6&style=flat" />
 </p>
 
----
+<br>
+
+<div align="center">
+
+### 🏅 My Holopin Badges
+
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badge lvl1-human" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badge lvl2-human" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Holopin Badge lvl3-human" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="80" />
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="80" />
+<img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="80" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📚 Table of Contents
 
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Highlights](#-highlights)
-- [GitHub Stats & Activity](#-github-stats--activity)
-- [Pinned Repositories](#-pinned-repositories)
-- [Featured Projects](#-featured-projects)
-- [Achievements & Certifications](#-achievements--certifications)
-- [Industry Exposure](#-industry-exposure)
-- [Fun Facts & Currently Working On](#-fun-facts--currently-working-on)
-- [Quick Links](#-quick-links)
-- [Contact Me](#-contact-me)
+<div align="center">
 
----
+**[About Me](#-about-me)** • **[Tech Stack](#-tech-stack)** • **[Highlights](#-highlights)** • **[GitHub Stats](#-github-stats--activity)** • **[Projects](#-featured-projects)** • **[Achievements](#-achievements--certifications)** • **[Contact](#-contact-me)**
 
-## 🏅 My Holopin Badges
+</div>
 
-<p align="center">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badge lvl1-human" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badge lvl2-human" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Holopin Badge lvl3-human" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="100" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="100" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="100" />
-</p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🚀 Highlights
 
-- Full‑stack developer and AI/ML enthusiast with strong DSA foundations in C++
-- Building with React, Next.js, TypeScript, Node.js, MongoDB
-- 25+ projects shipped including Leetify, CodeInSight, Resume Builder, and more
-- Actively exploring AI assistants, real‑time apps, and developer tools
-- Open to internships and collaborations in full‑stack and AI
+<div align="center">
 
----
+```yaml
+💡 Full-stack developer and AI/ML enthusiast with strong DSA foundations in C++
+🛠️ Building with React, Next.js, TypeScript, Node.js, MongoDB
+🎯 25+ projects shipped including Leetify, CodeInSight, Resume Builder, and more
+🔥 Actively exploring AI assistants, real-time apps, and developer tools
+🤝 Open to internships and collaborations in full-stack and AI
+```
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🧑‍💻 About Me
 
-<ul>
-  <li>🎓 3rd year B.E. in Computer Science & Engineering (IoT & Cyber Security)</li>
-  <li>🌏 Based in Bangalore, India</li>
-  <li>👨‍💻 Competitive coder; enjoy crafting clean, readable code</li>
-  <li>💻 Building full-stack applications and AI-powered tools</li>
-  <li>📬 <b>Contact:</b> <a href="mailto:luckykumar0011s@gmail. com">luckykumar0011s@gmail.com</a> | <a href="tel:+919905583008">+91 9905583008</a></li>
-</ul>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🎓 **3rd year B.E.** in Computer Science & Engineering (IoT & Cyber Security)
+- 🌏 **Based in** Bangalore, India
+- 👨‍💻 **Competitive coder** who enjoys crafting clean, readable code
+- 💻 **Building** full-stack applications and AI-powered tools
+- 📬 **Contact:** [luckykumar0011s@gmail.com](mailto:luckykumar0011s@gmail.com) | [+91 9905583008](tel:+919905583008)
+
+<br>
 
 ### 🔭 Currently
 
-<ul>
-  <li>Learning:  Next.js, TypeScript, System Design, DevOps</li>
-  <li>Building:  Leetify (LeetCode Clone), Resume Builder, AI Code Reviewer</li>
-  <li>Practicing: DSA in C++ and problem‑solving patterns</li>
-  <li>Contributing: Open source projects and component libraries</li>
-</ul>
+- **Learning:** Next.js, TypeScript, System Design, DevOps
+- **Building:** Leetify (LeetCode Clone), Resume Builder, AI Code Reviewer
+- **Practicing:** DSA in C++ and problem-solving patterns
+- **Contributing:** Open source projects and component libraries
 
----
+<br clear="right"/>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🧰 Tech Stack
 
@@ -146,40 +163,42 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📈 GitHub Stats & Activity
 
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura" alt="Profile Details" />
+</p>
 
- <div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shanidhya01&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shanidhya01&theme=aura" alt="Most Commit Language" width="45%" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shanidhya01&theme=aura" alt="Repos per Language" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shanidhya01&theme=aura" alt="Most Commit Language" width="49%" />
+</p>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shanidhya01&theme=aura" alt="GitHub Stats" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shanidhya01&theme=aura&utcOffset=8" alt="Productive Time" width="45%" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shanidhya01&theme=aura" alt="GitHub Stats" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shanidhya01&theme=aura&utcOffset=8" alt="Productive Time" width="49%" />
+</p>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Shanidhya01/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/Shanidhya01/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanidhya01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Shanidhya01&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanthakur&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shanidhya01" /></p>
-
-
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&locale=en&theme=radical" alt="Shanidhya01 GitHub Stats" width="45%" height="200px" />
-  <img src="https://streak-stats.demolab.com?user=Shanidhya01&theme=radical" width="48%" />
-
-</div>
-
-
-
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📌 Pinned Repositories
 
@@ -218,6 +237,60 @@
 </table>
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🎯 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔍 Leetify</h3>
+      <p><i>LeetCode Clone</i></p>
+      <a href="https://github.com/Shanidhya01/Leetify">View Repository</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔧 CodeInSight</h3>
+      <p><i>VSCode Extension</i></p>
+      <a href="https://github.com/Shanidhya01/CodeInSight">View Repository</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>📄 Resume Builder</h3>
+      <p><i>Professional Resume Creator</i></p>
+      <a href="https://github.com/Shanidhya01/Resume-Builder">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>💬 BlinkChat</h3>
+      <p><i>Real-time Chat Application</i></p>
+      <a href="https://github.com/Shanidhya01/BlinkChat">View Repository</a>
+    </td>
+    <td align="center">
+      <h3>🧬 BioTrace</h3>
+      <p><i>Biometric Attendance System</i></p>
+      <a href="https://github.com/Shanidhya01/BioTrace">View Repository</a>
+    </td>
+    <td align="center">
+      <h3>🛒 Shoporia</h3>
+      <p><i>E-Commerce Platform</i></p>
+      <a href="https://github.com/Shanidhya01/Shoporia">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>✍️ WriteWave</h3>
+      <p><i>Blogging Platform</i></p>
+      <a href="https://github.com/Shanidhya01/WriteWave">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+**[📂 View all projects →](https://github.com/Shanidhya01?tab=repositories)**
+
+</div>
+
 ---
 
 ## 🏅 Achievements & Certifications
@@ -230,58 +303,88 @@
   - Postman API Testing
   - AI Foundation and Machine Learning
 
----
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🌐 Industry Exposure
 
-**Nokia Technology Visit** — Attended tech session learning about AI, ML, 5G/6G trials, IoT innovations, and networked with industry professionals.
+<div align="center">
 
----
+### 📱 Nokia Technology Visit
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Attended tech session learning about:**
+- 🤖 AI & Machine Learning Applications
+- 📡 5G/6G Network Trials
+- 🌐 IoT Innovations
+- 🤝 Networked with Industry Professionals
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔥 Fun Facts & Currently Working On
 
-- 🥇 Regular participant in coding contests (LeetCode, CodeChef)
-- 🚀 Currently building:  **Leetify** (LeetCode Clone) and **Resume Builder**
-- 🤝 Open to collaboration on full‑stack, AI/ML, and open source projects
-- 💡 Always eager to learn new technologies and best practices! 
-- 🎯 Goal:  Contribute to major open source projects and build impactful products
+<img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
----
+- 🥇 Regular participant in coding contests (LeetCode, Codeforces)
+- 🤝 Open to collaboration on full-stack, AI/ML, and open source projects
+- 💡 Always eager to learn new technologies and best practices!
+- 🎯 **Goal:** Contribute to major open source projects and build impactful products
+
+<br clear="right"/>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔗 Quick Links
 
-- **DSA Practice:** [Shanidhya01/DSA](https://github.com/Shanidhya01/DSA)
-- **Leetify (LeetCode Clone):** [Shanidhya01/Leetify](https://github.com/Shanidhya01/Leetify)
-- **CodeInSight (VSCode Extension):** [Shanidhya01/CodeInSight](https://github.com/Shanidhya01/CodeInSight)
-- **Resume Builder:** [Shanidhya01/Resume-Builder](https://github.com/Shanidhya01/Resume-Builder)
-- **BlinkChat:** [Shanidhya01/BlinkChat](https://github.com/Shanidhya01/BlinkChat)
-- **BioTrace:** [Shanidhya01/BioTrace](https://github.com/Shanidhya01/BioTrace)
-- **Shoporia:** [Shanidhya01/Shoporia](https://github.com/Shanidhya01/Shoporia)
-- **WriteWave:** [Shanidhya01/WriteWave](https://github.com/Shanidhya01/WriteWave)
+<div align="center">
 
----
+| Project | Link |
+|:--------|:-----|
+| 📚 **DSA Practice** | [Shanidhya01/DSA](https://github.com/Shanidhya01/DSA) |
+| 🔧 **CodeInSight (VSCode Extension)** | [Shanidhya01/CodeInSight](https://github.com/Shanidhya01/CodeInSight) |
+| 📄 **Resume Builder** | [Shanidhya01/Resume-Builder](https://github.com/Shanidhya01/Resume-Builder) |
+| 💬 **BlinkChat** | [Shanidhya01/BlinkChat](https://github.com/Shanidhya01/BlinkChat) |
+| 🧬 **BioTrace** | [Shanidhya01/BioTrace](https://github.com/Shanidhya01/BioTrace) |
+| 🛒 **Shoporia** | [Shanidhya01/Shoporia](https://github.com/Shanidhya01/Shoporia) |
+| ✍️ **WriteWave** | [Shanidhya01/WriteWave](https://github.com/Shanidhya01/WriteWave) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ## 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:luckykumar0011s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shanidhya-kumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Shanidhya01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/luckykumar0011s/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="mailto:luckykumar0011s@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/shanidhya-kumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Shanidhya01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/luckykumar0011s/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
 <div align="center" style="margin-top: 32px;">
   <b>⭐ Let's connect and build something amazing together!  ⭐</b>
   <br><br>
   <i>Open for internships, collaborations, and exciting projects!</i>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 </div>
