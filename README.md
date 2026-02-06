@@ -183,9 +183,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shanidhya01/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanidhya01&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
