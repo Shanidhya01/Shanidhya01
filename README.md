@@ -125,7 +125,7 @@ Core Strengths:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,netlify,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode" alt="Skills" />
 </p>
 
 <details>
