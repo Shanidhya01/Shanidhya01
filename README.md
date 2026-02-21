@@ -185,13 +185,12 @@ Core Strengths:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shanidhya01&theme=aura&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -211,14 +210,13 @@ Core Strengths:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanidhya01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shanidhya01&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanidhya01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shanidhya01&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com?user=Shanidhya01&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📌 Pinned Repositories
@@ -227,41 +225,28 @@ Core Strengths:
   <tr>
     <td>
       <a href="https://github.com/Shanidhya01/BuildScope">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=BuildScope&theme=react" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shanidhya01&repo=BuildScope&theme=react&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Shanidhya01/AXIONYX">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=AXIONYX&theme=react" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shanidhya01&repo=AXIONYX&theme=react&cache_seconds=86400" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Shanidhya01/CodeInSight">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=CodeInSight&theme=react" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shanidhya01&repo=CodeInSight&theme=react&cache_seconds=86400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Shanidhya01/Journyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Journyzer&theme=react" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shanidhya01/SecureShare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=SecureShare&theme=react" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Shanidhya01/Guess">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanidhya01&repo=Guess&theme=react" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shanidhya01&repo=Journyzer&theme=react&cache_seconds=86400" />
       </a>
     </td>
   </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🎯 All Projects
@@ -422,7 +407,6 @@ Core Strengths:
 **[📂 View all repositories →](https://github.com/Shanidhya01?tab=repositories)**
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🏅 Achievements & Certifications
@@ -441,7 +425,6 @@ Core Strengths:
 | 🚢 | **Open Source** | 27+ repositories, active contributor |
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🌐 Industry Exposure
@@ -449,7 +432,6 @@ Core Strengths:
 <div align="center">
 
 ### 📱 Nokia Technology Visit
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **Attended tech session learning about:**
@@ -459,7 +441,6 @@ Core Strengths:
 - 🤝 Networked with Industry Professionals
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔥 What I'm Working On
@@ -474,7 +455,6 @@ Core Strengths:
 - 🎯 **Goal:** Contribute to major open source projects & build impactful products
 
 <br clear="right"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📬 Contact Me
@@ -503,7 +483,6 @@ Core Strengths:
   <br>
   <i>Open for internships, collaborations, and exciting projects!</i>
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
