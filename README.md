@@ -111,7 +111,6 @@
 ```yaml
 Core Strengths:
   🛠️ Full-Stack: React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL
-  🤖 AI/ML: Google Gemini, OpenAI, OpenRouter API integration
   ⚡ Real-Time: Socket.io, WebSockets, live collaboration
   🔐 Security: JWT, bcrypt, Clerk, Firebase Auth, encryption
   🐳 DevOps: Docker, Vercel, Netlify, Render, CI/CD
@@ -371,7 +370,6 @@ Core Strengths:
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&perline=4" height="25" /></td>
   </tr>
   <tr>
-
     <td><a href="https://github.com/Shanidhya01/BookVault"><b>📚 BookVault</b></a></td>
     <td>Library management — borrowing, waitlists, overdue reminders, admin dashboard</td>
     <td><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb&perline=5" height="25" /></td>
