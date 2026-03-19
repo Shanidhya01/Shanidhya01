@@ -113,7 +113,7 @@ Core Strengths:
   🛠️ Full-Stack: React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL
   ⚡ Real-Time: Socket.io, WebSockets, live collaboration
   🔐 Security: JWT, bcrypt, Clerk, Firebase Auth, encryption
-  🐳 DevOps: Docker, Vercel, Netlify, Render, CI/CD
+  🐳 DevOps: Docker, Vercel, Netlify, Render, CI/CD ,Jenkins, Aws
   📊 Data: Prisma ORM, Mongoose, Recharts, PDF generation
 ```
 
@@ -124,7 +124,7 @@ Core Strengths:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,Nexus,Slack,SonarType" alt="Skills" />
 </p>
 
 <details>
@@ -184,6 +184,13 @@ Core Strengths:
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6C37?style=for-the-badge&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-FF6C37?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white)
+![Aws](https://img.shields.io/badge/Aws-FF6C37?style=for-the-badge&logo=aws&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-FF6C37?style=for-the-badge&logo=nexus&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-FF6C37?style=for-the-badge&logo=slack&logoColor=white)
+![SonarType](https://img.shields.io/badge/SonarType-FF6C37?style=for-the-badge&logo=sonartype&logoColor=white)
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
