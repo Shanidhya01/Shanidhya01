@@ -124,7 +124,7 @@ Core Strengths:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,Nexus,Slack,SonarType" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,Nexus,Slack,SonarType,Maven" alt="Skills" />
 </p>
 
 <details>
@@ -191,6 +191,7 @@ Core Strengths:
 ![Nexus](https://img.shields.io/badge/Nexus-FF6C37?style=for-the-badge&logo=nexus&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-FF6C37?style=for-the-badge&logo=slack&logoColor=white)
 ![SonarType](https://img.shields.io/badge/SonarType-FF6C37?style=for-the-badge&logo=sonartype&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-FF6C37?style=for-the-badge&logo=maven&logoColor=white)
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
