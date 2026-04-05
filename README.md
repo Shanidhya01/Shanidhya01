@@ -124,7 +124,7 @@ Core Strengths:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,terraform,postman,maven,slack" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,terraform,postman,maven,slack,Ansible" alt="Skills" />
 </p>
 
 <details>
@@ -193,6 +193,7 @@ Core Strengths:
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 
 </details>
