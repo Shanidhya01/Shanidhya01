@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckykumar0011s@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/luckykumar0011s/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shanidhya01)
@@ -42,7 +42,9 @@
 
 <div align="center">
 
-### 🏅 My Holopin Badges
+### 🏅 Open Source Badges
+
+#### Hacktoberfest / Holopin
 
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="80" />
 <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badge lvl0-human" width="80" />
@@ -52,6 +54,20 @@
 <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Holopin Badge lvl4-human" width="80" />
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badge" width="80" />
 <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" alt="Holopin Badge lvl5-human" width="80" />
+
+#### GSSoC 2026
+
+<img src="image/gssoc-badge-role_contributor.png" alt="GSSoC 2026 Contributor Badge" width="150" />
+<img src="image/gssoc-badge-first_steps.png" alt="GSSoC 2026 First Step Badge" width="150" />
+<img src="image/gssoc-badge-getting_started.png" alt="GSSoC 2026 5 PR Merge Badge" width="150" />
+<img src="image/gssoc-badge-building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="150" />
+<img src="image/gssoc-badge-bounty_hunter.png" alt="GSSoC 2026 Bounty Hunter Badge" width="150" />
+<img src="image/gssoc-badge-bounty_master.png" alt="GSSoC 2026 Master Bounty Badge" width="150" />
+<img src="image/gssoc-badge-power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="150" />
+<img src="image/gssoc-badge-week_one.png" alt="GSSoC 2026 Week 1 Streak Badge" width="150" />
+<img src="image/gssoc-badge-consistent.png" alt="GSSoC 2026 Week 4 Streak Badge" width="150" />
+<img src="image/gssoc-badge-point_scorer.png" alt="GSSoC 2026 Point Scorer Badge" width="150" />
+<img src="image/gssoc-badge-rising_star.png" alt="GSSoC 2026 Rising Star Badge" width="150" />
 
 </div>
 
@@ -85,7 +101,7 @@
 - **Learning:** System Design, DevOps, Docker, CI/CD
 - **Building:** BuildScope (AI microservices), Tracktern (job tracker), Guessync (multiplayer game)
 - **Practicing:** DSA in C++ and problem-solving patterns
-- **Contributing:** Open source projects and component libraries
+- **Contributing:** GSSoC, open source projects, and component libraries
 
 <br clear="right"/>
 
@@ -95,14 +111,14 @@
 
 <div align="center">
 
-| 🔢 | Metric | Value |
-|:---:|:-------|:------|
-| 📦 | **Projects Shipped** | **27+** full-stack applications |
-| 🤖 | **AI-Powered Apps** | **8+** projects using Gemini, OpenAI, OpenRouter |
-| ⚡ | **Real-Time Apps** | **5+** with Socket.io & WebSockets |
-| 🏗️ | **Microservices** | BuildScope — Docker + API Gateway architecture |
-| 🧩 | **VS Code Extension** | CodeInSight — AI code reviewer |
-| 🎮 | **3D / Interactive** | Three.js Solar System, AlgoFlowX visualizer |
+|  🔢  | Metric                      | Value                                                  |
+| :--: | :-------------------------- | :----------------------------------------------------- |
+|  📦  | **Projects Shipped**  | **27+** full-stack applications                  |
+|  🤖  | **AI-Powered Apps**   | **8+** projects using Gemini, OpenAI, OpenRouter |
+|  ⚡  | **Real-Time Apps**    | **5+** with Socket.io & WebSockets               |
+| 🏗️ | **Microservices**     | BuildScope — Docker + API Gateway architecture        |
+|  🧩  | **VS Code Extension** | CodeInSight — AI code reviewer                        |
+|  🎮  | **3D / Interactive**  | Three.js Solar System, AlgoFlowX visualizer            |
 
 </div>
 
@@ -113,7 +129,7 @@ Core Strengths:
   🛠️ Full-Stack: React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL
   ⚡ Real-Time: Socket.io, WebSockets, live collaboration
   🔐 Security: JWT, bcrypt, Clerk, Firebase Auth, encryption
-  🐳 DevOps: Docker, Vercel, Netlify, Render, CI/CD
+  🐳 DevOps: Docker, Vercel, Netlify, Render, CI/CD ,Jenkins, Aws
   📊 Data: Prisma ORM, Mongoose, Recharts, PDF generation
 ```
 
@@ -124,13 +140,14 @@ Core Strengths:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,mysql,netlify,vscode,linux,nginx,jenkins,aws,Nexus,Slack,SonarType" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,react,nextjs,tailwind,threejs,redux,firebase,nodejs,express,socketio,mongodb,postgres,prisma,docker,git,github,vercel,vite,appwrite,netlify,vscode,linux,nginx,jenkins,aws,terraform,postman,maven,slack,Ansible" alt="Skills" />
 </p>
 
 <details>
 <summary><b>🔽 See detailed tech badges</b></summary>
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -141,6 +158,7 @@ Core Strengths:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -152,6 +170,7 @@ Core Strengths:
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### Backend
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -159,6 +178,7 @@ Core Strengths:
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ### Database & ORM
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -166,6 +186,7 @@ Core Strengths:
 ![Firebase](https://img.shields.io/badge/firebase-%23a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### AI & APIs
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -173,17 +194,30 @@ Core Strengths:
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 ### Auth
+
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### DevOps & Deployment
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -365,8 +399,6 @@ Core Strengths:
     <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb&perline=6" height="25" /></td>
   </tr>
 
-</table>
-
 ### 🎨 SaaS, Tools & Visuals
 
 <table align="center">
@@ -403,38 +435,46 @@ Core Strengths:
 </table>
 
 <div align="center">
-  
+
 **[📂 View all repositories →](https://github.com/Shanidhya01?tab=repositories)**
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"
 
-## 🏅 Achievements & Certifications
+
+
+
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| 🏆 | Achievement | Detail |
-|:---:|:-----------|:-------|
-| 💻 | **LeetCode** | Rank 51,622 — [View Profile](https://leetcode.com/u/luckykumar0011s/) |
-| 🛡️ | **Cisco** | Cybersecurity Essentials |
-| 📜 | **JavaScript** | Fundamentals Certification |
-| 🐍 | **Python** | Programming Certification |
-| 📬 | **Postman** | API Testing Certification |
-| 🤖 | **AI/ML** | AI Foundation & Machine Learning |
-| 🏅 | **Hacktoberfest** | Level 5 Contributor (Holopin badges) |
-| 🚢 | **Open Source** | 27+ repositories, active contributor |
+|  🏆  | Achievement             | Detail                                                             |
+| :--: | :---------------------- | :----------------------------------------------------------------- |
+|  💻  | **LeetCode**      | Rank 51,622 —[View Profile](https://leetcode.com/u/luckykumar0011s/) |
+| 🛡️ | **Cisco**         | Cybersecurity Essentials                                           |
+|  📜  | **JavaScript**    | Fundamentals Certification                                         |
+|  🐍  | **Python**        | Programming Certification                                          |
+|  📬  | **Postman**       | API Testing Certification                                          |
+|  🤖  | **AI/ML**         | AI Foundation & Machine Learning                                   |
+|  🏅  | **Hacktoberfest** | Level 5 Contributor (Holopin badges)                               |
+|  🌟  | **GSSoC**         | GirlScript Summer of Code contributor                              |
+|  🚢  | **Open Source**   | 27+ repositories, active contributor                               |
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🌐 Industry Exposure
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)## 🌐 Industry Exposure
 
 <div align="center">
 
 ### 📱 Nokia Technology Visit
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **Attended tech session learning about:**
+
 - 🤖 AI & Machine Learning Applications
 - 📡 5G/6G Network Trials
 - 🌐 IoT Innovations
@@ -443,7 +483,8 @@ Core Strengths:
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🔥 What I'm Working On
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)## 🔥 What I'm Working On
 
 <img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
@@ -451,7 +492,7 @@ Core Strengths:
 - 📋 **Tracktern** — Smart job tracker with AI insights
 - 🎮 **Guessync** — Multiplayer music guessing game
 - 🥇 Regular participant in coding contests (LeetCode, Codeforces)
-- 🤝 Open to collaboration on full-stack, AI/ML, and open source
+- 🤝 Open to collaboration on full-stack, AI/ML, GSSoC, and open source
 - 🎯 **Goal:** Contribute to major open source projects & build impactful products
 
 <br clear="right"/>
